@@ -1,0 +1,8 @@
+1) Query to create Database
+create database students;
+
+2) Query to use Database
+use students;
+
+3) Query to create student table
+create table student(rollNo int PRIMARY KEY, sName VARCHAR(20) Not Null, std VARCHAR(2) NOT NULL, dob Date, fees float;
